@@ -1,7 +1,8 @@
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This is an exploratory project on the energy production, consumption, and expenditure per US state in 2020.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Data obtained from https://www.eia.gov/state/
+"Rankings: Total Energy Production, 2020 (trillion Btu)"
+"Rankings: Total Energy Consumed per Capita, 2020 (million Btu)"
+"Rankings: Total Energy Expenditures per Capita, 2020 ($)"
